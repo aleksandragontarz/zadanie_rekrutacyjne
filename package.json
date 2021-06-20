@@ -4,7 +4,7 @@
   "description": "Aleksandra Gontarz",
   "main": "index.js",
   "scripts": {
-    "test": "jest -rootDir=src"
+    "test": "jest -rootDir=src --all"
   },
   "author": "",
   "license": "ISC",
